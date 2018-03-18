@@ -11,6 +11,7 @@ Clone and build MVE in this directory:
 	make -j
 
 If you want to use UVME to visualise the steps then also:
+
 	cd mve
 	cd apps/umve
 	qmake -qt=qt5
