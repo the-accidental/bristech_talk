@@ -1,8 +1,10 @@
 # 3D Photogrammetry Reconstruction Example
 
-Example scripts and data from my Bristech talk. Slides at www.iainwallace.co.uk
+Example scripts and data from my Bristech talk. Slides at https://iainwallace.co.uk/2018/04/01/bristech-talk-april-2018/
 
 ## Prerequisites 
+
+The below are tested on Ubuntu 16.04, but will also work in a Cygwin environment with [Windows MVE binaries](https://www.gcc.tu-darmstadt.de/home/proj/mve/) and appropriate changes to the scripts. I've not tested on my Mac, but it should work.
 
 Clone and build MVE in this directory:
 
