@@ -4,7 +4,9 @@ Example scripts and data from my Bristech talk. Slides at https://iainwallace.co
 
 ## Prerequisites 
 
-The below are tested on Ubuntu 16.04, but will also work in a Cygwin environment with [Windows MVE binaries](https://www.gcc.tu-darmstadt.de/home/proj/mve/) and appropriate changes to the scripts (just point them at the location of the binaries). I've not tested on my Mac, but it should work.
+The below are tested on Ubuntu 16.04, but will also work in a Cygwin environment with [Windows MVE binaries](https://www.gcc.tu-darmstadt.de/home/proj/mve/) and appropriate changes to the scripts (just point them at the location of the binaries).
+
+It works on a Mac too if you follow these [build instructions.](https://github.com/simonfuhrmann/mve/wiki/Build-Instructions-for-OS-X).
 
 Clone and build MVE in this directory:
 
